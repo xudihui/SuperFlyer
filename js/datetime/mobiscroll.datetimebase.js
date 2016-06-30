@@ -4,7 +4,7 @@
         datetime = ms.datetime,
         date = new Date(),
         defaults = {
-            startYear: date.getFullYear() - 4,
+            startYear: date.getFullYear() - 40,
             endYear: date.getFullYear() + 6, 
             separator: ' ',
             // Localization
